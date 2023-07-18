@@ -1,0 +1,46 @@
+.App{
+  
+  
+  height:100vh;
+  width:100vw;
+  display:flex;
+  background-color: black;
+  border: 2px;
+  border:2px solid black;
+  margin:auto;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  align-content: space-between;
+
+  
+}
+.hello{
+  display:flex;
+  align-items: center;
+  justify-content: center;
+}
+.submit{
+ 
+ width:20em;
+ margin:auto;
+
+ border:2px solid black;
+ border-radius:5px;
+ margin-top:100px;
+ margin-bottom: 100px;
+ 
+ 
+
+ 
+}
+.heading1{
+ 
+   
+   width:50em;
+   text-align: center;
+   padding:20px;
+   color:white;
+
+}
